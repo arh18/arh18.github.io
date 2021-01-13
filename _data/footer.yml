@@ -1,13 +1,13 @@
 # Footer navigation links
 
-- title: Home
+- title: Me
   url: /
 
-- title: Getting Started
-  url: /getting-started/
+- title: Photography
+  url: /photography/
 
-- title: About
-  url: /about/
+- title: reads
+  url: /reads/
 
-- title: Terms
-  url: /terms/
+- title: writings
+  url: /writings/
